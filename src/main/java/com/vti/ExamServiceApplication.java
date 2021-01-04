@@ -10,4 +10,6 @@ public class ExamServiceApplication {
 		SpringApplication.run(ExamServiceApplication.class, args);
 	}
 
+	//code zxczczx
+
 }
